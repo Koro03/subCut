@@ -2,7 +2,6 @@ from datetime import timedelta
 import json
 import os
 import re
-import ffmpeg
 import whisper
 
 from src.source_file_utils import get_video_source
